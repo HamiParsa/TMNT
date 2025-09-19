@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div>
+  <h1>Click on the GitHub icon below to view the project online.</h1>
+  <a href="https://github.com/username/ninja-turtles-website">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-## Getting Started
+# Ninja Turtles Fansite 🐢💥
 
-First, run the development server:
+This is a modern, interactive, and responsive web application dedicated to the Teenage Mutant Ninja Turtles universe. Users can explore characters, read their histories, check out comics and movies, and take fun quizzes.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<ul>
+  <li>
+    Explore all four Ninja Turtles with images, skills, and weapons
+  </li>
+  <li>
+    Animated hero section with particles and interactive buttons
+  </li>
+  <li>
+    Responsive character cards with flip animation for more details
+  </li>
+  <li>
+    Quiz section with multiple questions and user registration
+  </li>
+  <li>
+    Professional About and History sections with smooth scrolling and animations
+  </li>
+</ul>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Technologies Used:
 
-To learn more about Next.js, take a look at the following resources:
+<ul>
+  <li>
+    React for building UI components
+    <img width='20px' src='https://skillicons.dev/icons?i=react'>
+  </li>
+  <li>
+    Next.js for routing and server-side rendering
+    <img width='20px' src='https://skillicons.dev/icons?i=next'>
+  </li>
+  <li>
+    TypeScript for type safety
+    <img width='20px' src='https://skillicons.dev/icons?i=typescript'>
+  </li>
+  <li>
+    Tailwind CSS for fast and responsive styling
+    <img width='20px' src='https://skillicons.dev/icons?i=tailwindcss'>
+  </li>
+  <li>
+    Framer Motion for smooth animations
+    <img width='20px' src='https://skillicons.dev/icons?i=framer'>
+  </li>
+</ul>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Description:
 
-## Deploy on Vercel
+This project demonstrates a modern, animated Ninja Turtles fansite with interactive components, quizzes, and dynamic character cards. Users can explore detailed information about each Turtle, view comics and movies, and engage with quizzes to discover their Turtle personality.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The project showcases advanced front-end techniques including:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Animated hero section with gradient and particles
+- Flip cards for each character
+- Responsive design for mobile, tablet, and desktop
+- Interactive quiz with user input handling
+
+Perfect for practicing React, Next.js, TypeScript, Tailwind CSS, and Framer Motion in a real-world interactive application.
+
+---
+
+<hr/>
+
+<h1 align="center">Project Picture 🖼️</h1>
+
+<div align="center">
+  <img src="/screenshot1.png" width="700px" />
+  <br/><br/>
+  <img src="/screenshot2.png" width="700px" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <img src="/screenshot3.png" width="700px" />
+  <br/><br/>
+  <img src="/screenshot4.png" width="700px" />
+</div>
