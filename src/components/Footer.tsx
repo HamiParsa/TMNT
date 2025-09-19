@@ -19,6 +19,7 @@ export default function Footer() {
           <Link href="/" className="hover:text-yellow-400 transition">Home</Link>
           <Link href="/characters" className="hover:text-yellow-400 transition">Characters</Link>
           <Link href="/quiz" className="hover:text-yellow-400 transition">Quiz</Link>
+          <Link href="/about" className="hover:text-yellow-400 transition">about</Link>
         </div>
 
         {/* Social Icons */}
