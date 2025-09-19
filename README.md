@@ -75,7 +75,7 @@ Perfect for practicing React, Next.js, TypeScript, Tailwind CSS, and Framer Moti
 
 ---
 
-<hr/>
+
 
 <h1 align="center">Project Picture 🖼️</h1>
 
